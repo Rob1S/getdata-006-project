@@ -8,8 +8,10 @@ it describes:
 - transformations or work that is performed to clean up the data
 
 
-DATA SOURCE: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+DATA SOURCE: 
 --------------------------------------------------------------------------------------
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+
 For more information about this dataset contact: activityrecognition@smartlab.ws
 
 License:
@@ -33,26 +35,26 @@ Files:
 - y_all
 
 SubFolder: Inertial Signals, which contains the files:
--- body_acc_x_all
--- body_acc_y_all
--- body_acc_z_all
--- body_gyro_x_all
--- body_gyro_y_all
--- body_gyro_z_all
--- total_acc_x_all
--- total_acc_y_all
--- total_acc_z_all
+- body_acc_x_all
+- body_acc_y_all
+- body_acc_z_all
+- body_gyro_x_all
+- body_gyro_y_all
+- body_gyro_z_all
+- total_acc_x_all
+- total_acc_y_all
+- total_acc_z_all
 
 SubFolder: Extracted Measurements
--- body_acc_x
--- body_acc_y
--- body_acc_z
--- body_gyro_x
--- body_gyro_y
--- body_gyro_z
--- total_acc_x
--- total_acc_y
--- total_acc_z
+- body_acc_x
+- body_acc_y
+- body_acc_z
+- body_gyro_x
+- body_gyro_y
+- body_gyro_z
+- total_acc_x
+- total_acc_y
+- total_acc_z
 
 
 PROCESSING: 
